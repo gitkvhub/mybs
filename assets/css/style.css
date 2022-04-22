@@ -1884,6 +1884,11 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.footerbtn {
+    border-radius: 50px;
+    border: 1px solid #4154f1;
+    padding: 8px 40px 10px 40px;
+}
 .footer {
   background: #f6f9ff;
   padding: 0 0 30px 0;
