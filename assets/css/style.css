@@ -440,7 +440,8 @@ section {
 @media (max-width: 768px) {
   .hero {
     width: 100%;
-    background: url(../img/hero-bg.png) top left no-repeat;
+    background: url(../img/hero-bg.png) no-repeat;
+    background-position: 10% 10%;
     background-size: cover;
     text-align: center;
   }
