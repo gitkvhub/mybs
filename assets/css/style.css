@@ -60,8 +60,8 @@ section {
   color: #012970;
 }
 @media (max-width: 768px) {
-  body {
-    background: url(../img/hero-bg.png) top left no-repeat;
+  .body {
+    background: url(../img/hero-bg.png) top left no-repeat !important;
   }
   .section-header p {
     font-size: 28px;
