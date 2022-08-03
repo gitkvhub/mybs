@@ -60,7 +60,7 @@ section {
   color: #012970;
 }
 @media (max-width: 768px) {
-  .body {
+  .hero {
     background: url(../img/hero-bg.png) top left no-repeat !important;
   }
   .section-header p {
