@@ -60,10 +60,10 @@ section {
   color: #012970;
 }
 @media (max-width: 768px) {
+  background: url(../img/hero-bg.png) top left no-repeat;
   .section-header p {
     font-size: 28px;
     line-height: 32px;
-  background: url(../img/hero-bg.png) top left no-repeat;
   }
 }
 
