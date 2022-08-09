@@ -1,4 +1,11 @@
 Bismillah...
+09 Aug 2022
+- Buat Halaman Info Detail (Template Desain, Jasa Branding)
+- Ubah Icon Font Awesome
+
+04 Aug 2022
+- Buat Halaman Info Detail (Whatsapp Marketing)
+- Ubah Icon Font Awesome
 
 03 Aug 2022
 - Ubah Flow Tiap Funnel
