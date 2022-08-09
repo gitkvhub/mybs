@@ -1,10 +1,13 @@
 Bismillah...
 09 Aug 2022
 - Buat Halaman Info Detail (Template Desain, Jasa Branding)
+- Ubah Funnel (Tentang Kami => Lihat Produk)
+- Takeout Portfolio di halaman home
 - Ubah Icon Font Awesome
 
 04 Aug 2022
 - Buat Halaman Info Detail (Whatsapp Marketing)
+- Buat Paket Harga
 - Ubah Icon Font Awesome
 
 03 Aug 2022
