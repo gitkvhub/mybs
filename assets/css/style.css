@@ -167,6 +167,8 @@ section {
 .header .logo img {
   max-height: 40px;
   margin-right: 6px;
+  width: 30px;
+  height: 30px;
 }
 .header .logo span {
   font-size: 30px;
