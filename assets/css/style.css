@@ -1963,7 +1963,8 @@ section {
 }
 .footer .footer-top .footer-info .logo img {
   max-height: 40px;
-  margin-right: 6px;
+  width: 30px;
+  height: 30px;
 }
 .footer .footer-top .footer-info .logo span {
   font-size: 30px;
