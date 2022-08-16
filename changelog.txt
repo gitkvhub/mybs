@@ -1,4 +1,22 @@
 Bismillah...
+
+Note Next Update: 
+- Buat Mockup untuk Preview Website
+- Susun Semua Template Desain di google drive 
+- Optimize Onpage GTmetrix
+- Cek2 Broken link
+- Daftar ke Google Search Console
+- Daftar ke Google My Business
+- Buat Fanspage FB
+- Lanjut Buat Content Pillar Media Sosial
+- Scrap kontak Telegram (Phyton)
+- Broadcast WA (Woro2)
+
+16 Aug 2022
+- Buat 6 Halaman Pemesanan
+- Buat JS function form to wa
+- Buat CSS Form Order
+
 09 Aug 2022
 - Buat Halaman Info Detail (Template Desain, Jasa Branding)
 - Ubah Funnel (Tentang Kami => Lihat Produk)
