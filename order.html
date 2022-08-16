@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
+<html lang="en"><head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -25,7 +23,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/detail-style.css" rel="stylesheet">
   <!-- Order Form CSS File -->
   <link href="assets/css/order.css" rel="stylesheet">
 
@@ -37,7 +35,7 @@
   ======================================================== -->
 </head>
 
-<body>
+<body data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0">
 
   <!-- ======= Header ======= -->
   <header id="header" class="header fixed-top">
@@ -70,69 +68,43 @@
 
     <section class="inner-page">
       <div class="container">
-        <p align="center" style="margin-top:30px;">
-          
-      <div class="container register">
+        <div class="container register">
       <div class="row">
         <div class="col-md-12">
-          <div
-            class="tab-pane fade show active text-align form-new"
-            id="home"
-            role="tabpanel"
-            aria-labelledby="home-tab"
-          >
-            <h3 class="register-heading text-nowrap">HTML Form to WhatsApp</h3>
+          <div class="tab-pane fade show active text-align form-new" id="home" role="tabpanel" aria-labelledby="home-tab">
+            <header class="section-header">
+          <h2>Form Pemesanan</h2>
+          <p>Silakan Isi Data dengan Benar</p>
+        </header>
             <div class="row register-form">
               <div class="col-md-12">
                 <form autocomplete="off">
-                  <div class="form-group">
-                    <input
-                      type="text"
-                      name="Name"
-                      id="name"
-                      class="form-control"
-                      placeholder="Your Name *"
-                      value=""
-                      required=""
-                    />
+                  <div class="form-group" style="width:50%;float:left;">
+                    <label><strong>Nama Depan</strong></label>
+<input type="text" name="Name" id="name" class="form-control" placeholder="Your Name *" value="" required=""> <br>
+                  </div>
+<div class="form-group" style="width:40%;float:right;">
+                    <label><strong>Nama Belakang</strong></label>
+<input type="text" name="Name" id="name" class="form-control" placeholder="Your Name *" value="" required=""> <br>
+                  </div>
+                  <br clear="all">
+<div class="form-group">
+                    <label><strong>Email</strong></label><input type="text" name="Email" id="email" class="form-control" placeholder="Your Email *" value="" required=""><br>
                   </div>
                   <div class="form-group">
-                    <input
-                      type="text"
-                      name="Email"
-                      id="email"
-                      class="form-control"
-                      placeholder="Your Email *"
-                      value=""
-                      required=""
-                    />
+                    <label><strong>Nomer Whatsapp</strong></label><input type="number" name="Phone" id="phone" class="form-control" placeholder="Your Contact Number *" value="" required=""><br>
                   </div>
                   <div class="form-group">
-                    <input
-                      type="number"
-                      name="Phone"
-                      id="phone"
-                      class="form-control"
-                      placeholder="Your Contact Number *"
-                      value=""
-                      required=""
-                    />
-                  </div>
-                  <div class="form-group">
-                    <select class="form-control" id="service">
-                      <option>Default select</option>
-                      <option>Website Development</option>
-                      <option>Mobile App Development</option>
-                      <option>Web and Mobile Application</option>
+                    <label><strong>Pilih Paket</strong></label>
+<select class="form-control" id="service">
+                      <option>Paket Personal</option>
+                      <option>Paket UMKM</option>
+                      <option>Paket Business</option>
+                      
                     </select>
                   </div>
                   <div class="form-group">
-                    <input onclick="gotowhatsapp()" 
-                      type="submit"
-                      name="submit"
-                      class="btnSubmit btn-block"
-                      value="Submit"
-                    />
+                    <input onclick="gotowhatsapp()" type="submit" name="submit" class="btnSubmit btn-block" value="Submit">
                   </div>
                 </form>
               </div>
@@ -248,5 +220,5 @@ Indonesia<br><br>
     <script src="assets/js/JSWA.js"></s
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  </body>
-</html>
+  
+</body></html>
