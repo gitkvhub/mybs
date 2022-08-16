@@ -5,13 +5,15 @@ function gotowhatsapp() {
     var phone = document.getElementById("phone").value;
     var email = document.getElementById("email").value;
     var service = document.getElementById("service").value;
+     var tfmethode = document.getElementById("tfmethode").value;
 
     var url = "https://wa.me/6281906417979?text=" 
     + "Name: " + name + "%20"
     + lastname + "%0A"
     + "Phone: " + phone + "%0A"
     + "Email: " + email  + "%0A"
-    + "Service: " + service; 
+    + "Service: " + service + "%0A"
+    + "Pembayaran: " + tfmethode; 
 
     window.open(url);
 }
