@@ -7,9 +7,9 @@ function gotowhatsapp() {
     var service = document.getElementById("service").value;
 
     var url = "https://wa.me/6281906417979?text=" 
-    + "Name: " + name + "%0a"
-    + "Phone: " + phone + "%0a"
-    + "Email: " + email  + "%0a"
+    + "Name: " + name + "%3A%0"
+    + "Phone: " + phone + "%3A%0"
+    + "Email: " + email  + "%3A%0"
     + "Service: " + service; 
 
     window.open(url, '_blank').focus();
