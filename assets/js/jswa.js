@@ -7,7 +7,7 @@ function gotowhatsapp() {
     var service = document.getElementById("service").value;
      var tfmethode = document.getElementById("tfmethode").value;
 
-    var url = "https://wa.me/6281906417979?text=" 
+    var url = "https://wa.me/6281906417979?text=Pesanan%20" 
     + "Name: " + name + "%20"
     + lastname + "%0A"
     + "Phone: " + phone + "%0A"
