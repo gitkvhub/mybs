@@ -12,9 +12,10 @@ Note Next Update:
 24 Aug 2022
 - Validasi Radio button Order Form
 - Buat Mockup untuk Preview Website
+- Update Paket Email Marketing
+- Update Footer 
 - Optimize Onpage GTmetrix (on progress)
 - Cek2 Broken link (on progress)
-- Update Footer 
 
 16 Aug 2022
 - Buat 6 Halaman Pemesanan
