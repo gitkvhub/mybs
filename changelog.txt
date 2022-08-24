@@ -1,16 +1,20 @@
 Bismillah...
 
 Note Next Update: 
-- Buat Mockup untuk Preview Website
 - Susun Semua Template Desain di google drive 
-- Optimize Onpage GTmetrix
-- Cek2 Broken link
 - Daftar ke Google Search Console
 - Daftar ke Google My Business
-- Buat Fanspage FB
+- Buat Fanspage FB (Belum bisa akun masih baru)
 - Lanjut Buat Content Pillar Media Sosial
 - Scrap kontak Telegram (Phyton)
 - Broadcast WA (Woro2)
+
+24 Aug 2022
+- Validasi Radio button Order Form
+- Buat Mockup untuk Preview Website
+- Optimize Onpage GTmetrix (on progress)
+- Cek2 Broken link (on progress)
+- Update Footer 
 
 16 Aug 2022
 - Buat 6 Halaman Pemesanan
