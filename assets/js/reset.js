@@ -1,5 +1,5 @@
 function resetFunction() {
   document.getElementById('myForm').reset();
-  document.getElementById("myForm").scrollIntoView();
+  document.getElementById("home").scrollIntoView();
   location.reload()
 }
