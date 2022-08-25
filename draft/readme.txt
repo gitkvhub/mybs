@@ -3,13 +3,13 @@ Bismillah...
 Note Next Update: 
 - Susun Semua Template Desain di google drive 
 - Buat Fanspage FB (Belum bisa akun masih baru)
-- Scrap kontak Telegram (Phyton)
-- Broadcast WA (Woro2)
+- Lanjut Eksekusi Digital Roadmap  3 Fase Funnel (Green, Yellow, Red)
 
 26 Aug 2022
-- Daftar ke Google Search Console
 - Daftar ke Google My Business
 - Lanjut Buat Content Pillar Media Sosial
+- Scrap kontak Telegram (Phyton)
+- Broadcast WA (Woro2)
 
 25 Aug 2022
 - Optimize Onpage GTmetrix 
@@ -17,6 +17,7 @@ Note Next Update:
 - Creating Sitemap
 - Creating Robot.txt
 - Cleanup Site Structure
+- Daftar ke Google Search Console
 
 24 Aug 2022
 - Validasi Radio button Order Form
