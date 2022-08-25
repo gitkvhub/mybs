@@ -10,9 +10,9 @@ Note Next Update:
 - Broadcast WA (Woro2)
 
 25 Aug 2022
-- Optimize Onpage GTmetrix (80%)
-- Cek2 Broken link (80%)
-- Creating Sitemap
+- Optimize Onpage GTmetrix 
+- Cek2 Broken link 
+- Creating Sitemap (Progress)
 - Creating Robot.txt
 - Cleanup Site Structure
 
