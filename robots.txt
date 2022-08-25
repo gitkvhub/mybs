@@ -1,6 +1,7 @@
 # Kurvadigital ID Search Console Rules
 
 User-agent: *
+Disallow: /draft/
 Disallow: /wp-admin/
 Disallow: /wp-signup.php
 Disallow: /press-this.php
