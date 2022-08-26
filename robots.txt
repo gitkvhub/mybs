@@ -5,6 +5,6 @@ Disallow: /draft/
 
 Sitemap: https://www.kurvadigital.com/sitemap.xml
 
-# This file was generated on Thu, 25 Aug 2022 06:00:07 +0000
+# This file was generated on Thu, 26 Aug 2022 06:00:07 +0000
 
 
