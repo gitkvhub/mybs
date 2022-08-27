@@ -5,11 +5,17 @@ Note Next Update:
 - Buat Fanspage FB (Belum bisa akun masih baru)
 - Lanjut Eksekusi Digital Roadmap  3 Fase Funnel (Green, Yellow, Red)
 
+27 Aug 2022
+- Check Keyword Density
+- Share Akses Google Analytics
+- Buat Draft Artikel di Section Blog 
+- Lanjut Buat Draft Sosial Media
+
 26 Aug 2022
 - Daftar ke Google My Business
 - Lanjut Buat Content Pillar Media Sosial
-- Scrap kontak Telegram (Phyton)
-- Broadcast WA (Woro2)
+- Scrap kontak Telegram (Phyton - On Progress)
+- Broadcast WA (Woro2 - On Progress)
 
 25 Aug 2022
 - Optimize Onpage GTmetrix 
