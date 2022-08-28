@@ -5,6 +5,11 @@ Note Next Update:
 - Buat Fanspage FB (Belum bisa akun masih baru)
 - Lanjut Eksekusi Digital Roadmap  3 Fase Funnel (Green, Yellow, Red)
 
+28 Aug 2022
+- Html lang change from en to id
+- Tambah link rel canonical
+- Fix render blocking css & js (compress on progress)
+
 27 Aug 2022
 - Check Keyword Density
 - Share Akses Google Analytics
