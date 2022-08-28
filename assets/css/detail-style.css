@@ -55,6 +55,14 @@ section {
   color: #4154f1;
   text-transform: uppercase;
 }
+.section-header h1 {
+  margin: 10px 0 0 0;
+  padding: 0;
+  font-size: 38px;
+  line-height: 42px;
+  font-weight: 700;
+  color: #012970;
+}
 .section-header p {
   margin: 10px 0 0 0;
   padding: 0;
