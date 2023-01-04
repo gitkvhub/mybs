@@ -7,9 +7,9 @@ function gotowhatsapp() {
     var service = document.getElementById("service").value;
      var tfmethode = document.getElementById("tfmethode").value;
 
-    var url = "mailto:kurvadigital.info@gmail.com?subject=Form%20Pesanan%20" 
+    var url = "mailto:kurvadigital.info@gmail.com?subject=Pesan%20" 
     + "Service: " + service + "&body="
-    + "Name: " + name + "%20"
+    + "Name: " + name + "%0A"
     + lastname + "%0A"
     + "Phone: " + phone + "%0A"
     + "Email: " + email  + "%0A"
