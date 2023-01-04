@@ -9,7 +9,7 @@ function gotowhatsapp() {
 
     var url = "mailto:kurvadigital.info@gmail.com?subject=Pesan%20" 
     + "Service: " + service + "&body="
-    + "Name: " + name + "%0A"
+    + "Name: " + name + "%20"
     + lastname + "%0A"
     + "Phone: " + phone + "%0A"
     + "Email: " + email  + "%0A"
